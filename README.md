@@ -1,3 +1,4 @@
+Project Link:- https://courageous-pixie-ef57f1.netlify.app/
 ![Landing page](https://github.com/jithishkumar410/Training-Simulator/assets/97963977/8dff6b00-99e2-4942-9e2b-6a3bcc9de146)
 ![Registration Page](https://github.com/jithishkumar410/Training-Simulator/assets/97963977/46b154b7-10ca-4e14-ad1d-701cab82196d)
 ![Login page](https://github.com/jithishkumar410/Training-Simulator/assets/97963977/10368618-7016-4532-99dd-9b9611da5b4e)
